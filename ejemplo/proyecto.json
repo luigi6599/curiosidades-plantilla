@@ -1,0 +1,13 @@
+{
+ "clips_dir": "clips",
+ "audio": "voz.mp3",
+ "palabras": "palabras.json",
+ "salida": "short.mp4",
+ "correcciones": [],
+ "escenas": [
+  {"n":1,"src_fin":3.1,"dur":3.1},{"n":2,"src_fin":2.8,"dur":2.8},{"n":3,"src_fin":3.2,"dur":2.1},
+  {"n":4,"src_fin":3.3,"dur":3.3},{"n":5,"src_fin":2.8,"dur":4.4},{"n":6,"src_fin":3.1,"dur":3.1},
+  {"n":7,"src_fin":3.2,"dur":3.2},{"n":8,"src_fin":3.0,"dur":3.0},{"n":9,"src_fin":3.1,"dur":3.1},
+  {"n":10,"src_fin":5.4,"dur":5.4},{"n":11,"src_fin":5.3,"dur":5.3}
+ ]
+}
